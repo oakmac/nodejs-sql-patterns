@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-sql-patterns",
+  "version": "1.0.0",
+  "description": "an example repo of common nodejs sql patterns",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oakmac/nodejs-sql-patterns.git"
+  },
+  "author": "Chris Oakman <chris@oakmac.com> (http://chrisoakman.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oakmac/nodejs-sql-patterns/issues"
+  },
+  "homepage": "https://github.com/oakmac/nodejs-sql-patterns#readme",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "sqlite": "^3.0.0"
+  }
+}
